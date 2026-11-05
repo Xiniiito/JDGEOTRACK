@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.barra-container{
+    background-color: #20c4ff;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
